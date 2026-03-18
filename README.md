@@ -1,2 +1,2 @@
 # Dining-Delight-Website
-This is my first website .
+<h1>This is my first website.</h1>
